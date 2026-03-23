@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Dependencies
+node_modules/
+
+# IDE
+.claude/
+
+# Temporary files
+~$*
+
+# Optional: Uncomment if screenshots are too large
+# *_screenshots/
+# *.png
